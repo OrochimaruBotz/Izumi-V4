@@ -301,5 +301,6 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   - @melcanz_ (Amel)
   - @${setting.Instagram} (Owner)
   - @chris.tianid (Christian ID)
-  - @hardianto.xyz (Anto)`
+  - @hardianto.xyz (Anto)
+  - @humanzboti (Huamnz)`
 }
